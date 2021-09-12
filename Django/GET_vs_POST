@@ -1,0 +1,24 @@
+1. when we are sending request from client to server that 
+   time we use Request Method. So by default the method "GET".
+2. In Request Method many methods there:
+		a. GET
+		b. POST
+		c. PUT
+		d. DELETE
+		e. HEAD
+		f. CONNECT
+		g. OPTION
+		h. TRACE
+		i. PATCH
+3. GET:
+		when we send Request in HTTP protocol from client to 
+		server that time we use "GET" method EX. hey i want image
+		
+4. POST:
+		when we submit some data from client to server for ex:
+        we fill a form and submit is called post
+		
+when we use GET that time in the URL value also will be present 
+but in case of POST that value will be not present. only function name 
+will be present 
+  

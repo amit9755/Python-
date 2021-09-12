@@ -1,0 +1,10 @@
+1. MVT/MTV(model view Template/ model template view)
+2. Here we need 3 thing 
+		a. Data
+		b. Layout
+		c. Logic
+		
+3. Through MVT we can acchive all 3 thing 
+4. DTL(Django Template Language)
+
+
